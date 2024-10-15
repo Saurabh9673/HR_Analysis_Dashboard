@@ -54,15 +54,109 @@ This chart likely compares the monthly income associated with two categories: th
 2) Attrition Rate Pre-Promotion: Conversely, the attrition rate of employees before their promotion is slightly lower, recorded at 146.1k. This suggests that promotions may not be effectively retaining employees, raising questions about job satisfaction or fit within the new roles.
 
 
-## Excel Dashboard :
+# Excel Dashboard :
 ![image](https://github.com/user-attachments/assets/dc1218ac-1aa5-4b3f-8e92-03a014d89795)
 
 
-## PowerBI Dashboard :
+# PowerBI Dashboard :
+
+## HR-Analytics Dashboard
+
+## Overview
+The HR-Analytics Dashboard provides a comprehensive overview of employee metrics, including attrition rates, average age, and departmental statistics. This dashboard is designed to help HR professionals make informed decisions based on data-driven insights.
+
+## Key Metrics
+- **Total Employees**: 50,000
+- **Attrition Count**: 25,000
+- **Average Age**: 38.97 years
+- **Attrition Rate**: 50.21%
+- **Active Employees**: 24,895
+
+## Departmental Insights
+### Average Attrition Rate by Department
+- The average attrition rates for various departments are as follows:
+  - Research & Development: 16.97%
+  - Sales: 16.84%
+  - Software: 16.78%
+  - Support: 16.60%
+  - Hardware: 16.09%
+
+### Average Working Years by Department
+- Average working years across departments:
+  - Hardware: 20.67 years
+  - Research & Development: 20.65 years
+  - Software: 20.52 years
+  - Human Resources: 20.49 years
+  - Support: 20.34 years
+  - Sales: 20.32 years
+
+## Attrition Analysis
+### Attrition Rate vs. Year Since Last Promotion
+- The correlation between attrition rates and the number of years since the last promotion is visualized, indicating trends in employee retention related to career advancement.
+
+### Attrition Rate vs. Monthly Income
+- This analysis examines how monthly income impacts attrition rates across different job roles, providing insights into compensation-related retention strategies.
+
+## Job Role Insights
+### Work-Life Balance by Job Role
+- The average work-life balance scores by job role highlight areas for improvement in employee satisfaction:
+  - Healthcare Professionals: 2.52
+  - Sales Representatives: 2.51
+  - Research Scientists: 2.49
+  - Managers: 2.47
+
+### Avg Hourly Rate of Male Research Scientists
+- A comparison of hourly rates between male and female research scientists, providing insights into gender pay gaps within the organization.
+
+## Conclusion
+The HR-Analytics Dashboard serves as a vital tool for HR management, enabling data-driven decisions to enhance employee retention, satisfaction, and overall organizational health. By analyzing various metrics and trends, HR professionals can identify areas for improvement and implement effective strategies.
 
 ![image](https://github.com/user-attachments/assets/af1da9f5-8334-440b-ad1c-0b347fa78405)
 
-## Tableau Dashboard :
+# Tableau Dashboard :
+
+## HR Analysis Dashboard
+
+This dashboard provides a comprehensive analysis of employee attrition, average working years, and income statistics across various departments. It serves as a valuable tool for HR professionals to understand workforce dynamics and make informed decisions.
+
+## Key Features
+
+### 1. Average Attrition Rate for All Departments
+- Displays the attrition rates across different departments, allowing HR to identify areas with higher turnover.
+- **Departments Analyzed**: Hardware, Human Resources, Research & Development, Sales, Software, Support.
+
+### 2. Average Hourly Rate of Male Research Scientist
+- Presents the average hourly rate for male research scientists, indicating gender pay equity.
+- **Key Metric**: 100% of total hourly rate attributed to male employees.
+
+### 3. Job Role vs. Work-Life Balance
+- Visualizes the relationship between job roles and employee work-life balance.
+- **Highlighted Roles**: Healthcare Representative, Research Scientist, Manager, Developer, and more.
+
+### 4. Average Working Years for Each Department
+- Analyzes the average tenure of employees in each department.
+- **Findings**: Departments like Software and Support show a tenure around 20.5 years.
+
+### 5. Attrition Rate vs. Monthly Income Statistics
+- Compares attrition rates with monthly income, providing insights into financial implications of employee turnover.
+- **Income Metrics**: Monthly income figures for employees who left versus those who remained.
+
+### 6. Attrition Rate vs. Years Since Last Promotion
+- Examines the relationship between the time since last promotion and attrition rates.
+- **Data Points**: Shows a correlation between promotion timing and employee retention.
+
+## Visual Elements
+- The dashboard incorporates various charts and graphs, including bar graphs, pie charts, and line charts, to present data effectively.
+- Color-coded sections help differentiate between various metrics and departments, enhancing readability.
+
+## Usage
+This dashboard is ideal for HR departments looking to:
+- Monitor employee attrition rates.
+- Analyze compensation and tenure trends.
+- Improve employee retention strategies by understanding underlying factors affecting workforce stability.
+
+## Conclusion
+The HR Analysis Dashboard is a powerful tool for visualizing and analyzing key HR metrics. By leveraging this dashboard, organizations can enhance their HR strategies and foster a more stable work environment.
 
 ![image](https://github.com/user-attachments/assets/ccff98f8-ad6a-4090-b5cd-01016b21a829)
 
